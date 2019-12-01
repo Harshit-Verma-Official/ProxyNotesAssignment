@@ -1,3 +1,3 @@
 # ProxyNotesAssignment
 
-![alt text](screenshot.jpg =250x250)
+![alt text](screenshot.jpg){:height="50%" width="50%"}
