@@ -1,3 +1,3 @@
 # ProxyNotesAssignment
 
-![test image size](screenshot.jpg){:height="50%" width="50%"}
+<img src="screenshot.jpg" width="100" height="100">
