@@ -1,3 +1,3 @@
 # ProxyNotesAssignment
 
-![alt text](screenshot.jpg)
+![alt text](screenshot.jpg | width=100)
